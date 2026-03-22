@@ -52,5 +52,5 @@ Incluye funcionalidades sociales tipo feed, gestión de documentos institucional
 
 ## Demo
 
-El proyecto cuenta con una versión demo para explorar sus funcionalidades: https://intranet-connect.netlify.app/login
+El proyecto cuenta con una versión demo para explorar sus funcionalidades: https://intranet-connect.netlify.app
 
